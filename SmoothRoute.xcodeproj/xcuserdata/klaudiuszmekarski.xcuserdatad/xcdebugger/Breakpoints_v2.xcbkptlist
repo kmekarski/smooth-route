@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "59474022-BE60-4AB5-BD4E-025C1D37B93D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3E6BE4F-0AB6-4546-96E6-C004F15C2130"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/Sensors/ViewModels/SensorsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "startSensors()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3E6BE4F-0AB6-4546-96E6-C004F15C2130 - cb0dddee4856406a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (__C.NSTimer) -&gt; () in SmoothRoute.SensorsViewModel.startSensors() -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/Sensors/ViewModels/SensorsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "D3E6BE4F-0AB6-4546-96E6-C004F15C2130 - cb0dddee48564049"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (__C.NSTimer) -&gt; () in SmoothRoute.SensorsViewModel.startSensors() -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/Sensors/ViewModels/SensorsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "377C57A6-CFFB-48B5-89D1-0514FCCCA141"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Managers/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFF3DF19-84FC-4981-AAB4-0A31A178C7FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/Sensors/ViewModels/SensorsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "observeCoordinateUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F5BCDF1-5AFE-41D2-B31D-16112546C547"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/Sensors/ViewModels/SensorsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "observeSpeedUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06569E28-8C34-4463-B95F-0578A4C9CCB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/Sensors/ViewModels/SensorsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "observeSpeedUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44F11499-EB50-4A28-9D3E-D3B2005106ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/Sensors/ViewModels/SensorsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "startSensors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A0413A8-06D6-4FB9-923B-1DAA2FD9A88A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "locationSearch(forLocalSearchCompletion:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A0413A8-06D6-4FB9-923B-1DAA2FD9A88A - c01002c8c49e94c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.LocationSearchViewModel.locationSearch(forLocalSearchCompletion: __C.MKLocalSearchCompletion, completion: (Swift.Optional&lt;__C.MKLocalSearchResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "6A0413A8-06D6-4FB9-923B-1DAA2FD9A88A - c01002c8c49e94a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.LocationSearchViewModel.locationSearch(forLocalSearchCompletion: __C.MKLocalSearchCompletion, completion: (Swift.Optional&lt;__C.MKLocalSearchResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6A0413A8-06D6-4FB9-923B-1DAA2FD9A88A - c01002c8c49e9483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.LocationSearchViewModel.locationSearch(forLocalSearchCompletion: __C.MKLocalSearchCompletion, completion: (Swift.Optional&lt;__C.MKLocalSearchResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "930D2D9B-DCFC-488B-AB75-8AFE69530977"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "selectDestination(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C0EFAE2-0E66-4675-A9CE-DC148AD58346"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "selectDestination(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9C0EFAE2-0E66-4675-A9CE-DC148AD58346 - c85d912c5d8bbd40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.LocationSearchViewModel.selectDestination(__C.MKLocalSearchCompletion) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "9C0EFAE2-0E66-4675-A9CE-DC148AD58346 - 7ff62b12b4587af3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKLocalSearchResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SmoothRoute.LocationSearchViewModel.selectDestination(__C.MKLocalSearchCompletion) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "9C0EFAE2-0E66-4675-A9CE-DC148AD58346 - c85d912c5d8bbd63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.LocationSearchViewModel.selectDestination(__C.MKLocalSearchCompletion) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "9C0EFAE2-0E66-4675-A9CE-DC148AD58346 - c85d912c5d8bbd02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.LocationSearchViewModel.selectDestination(__C.MKLocalSearchCompletion) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0121A5A-E026-4AEE-9DB7-BD734B58FA88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "selectStartingLocation(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0121A5A-E026-4AEE-9DB7-BD734B58FA88 - 3264039175a0d6ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.LocationSearchViewModel.selectStartingLocation(__C.MKLocalSearchCompletion) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "F0121A5A-E026-4AEE-9DB7-BD734B58FA88 - 49e4e5a5a23b99f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKLocalSearchResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SmoothRoute.LocationSearchViewModel.selectStartingLocation(__C.MKLocalSearchCompletion) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "F0121A5A-E026-4AEE-9DB7-BD734B58FA88 - 3264039175a0d68e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.LocationSearchViewModel.selectStartingLocation(__C.MKLocalSearchCompletion) -&gt; ()"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/LocationSearch/ViewModels/LocationSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A793F59-83BD-49B3-8ACF-78A047EAD458"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Managers/FirebaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "getRouteData(coordinates:distance:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70C44335-1C68-4965-AD72-63185CD4AFB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Managers/FirebaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "getRouteData(coordinates:distance:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70C44335-1C68-4965-AD72-63185CD4AFB3 - 59dc743ac4e2ebed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SmoothRoute.FirebaseManager.getRouteData(coordinates: Swift.Array&lt;__C.CLLocationCoordinate2D&gt;, distance: Swift.Double) async throws -&gt; SmoothRoute.FirebaseRouteData"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Managers/FirebaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "70C44335-1C68-4965-AD72-63185CD4AFB3 - d9685f54ce1de59c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SmoothRoute.FirebaseManager.getRouteData(coordinates: Swift.Array&lt;__C.CLLocationCoordinate2D&gt;, distance: Swift.Double) async throws -&gt; SmoothRoute.FirebaseRouteData"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Managers/FirebaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "70C44335-1C68-4965-AD72-63185CD4AFB3 - e1c945e08ed837ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SmoothRoute.FirebaseManager.getRouteData(coordinates: Swift.Array&lt;__C.CLLocationCoordinate2D&gt;, distance: Swift.Double) async throws -&gt; SmoothRoute.FirebaseRouteData"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Managers/FirebaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "70C44335-1C68-4965-AD72-63185CD4AFB3 - 45cf3a83adcca5ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SmoothRoute.FirebaseManager.getRouteData(coordinates: Swift.Array&lt;__C.CLLocationCoordinate2D&gt;, distance: Swift.Double) async throws -&gt; SmoothRoute.FirebaseRouteData"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Managers/FirebaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "357FCA61-9DF5-4E6E-9E37-4D7B7779FC65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/Home/Views/MapViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "mapView(_:viewFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50E30737-924D-479C-86BD-2C26CFB0D1C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmoothRoute/Core/Home/Views/MapViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "mapView(_:viewFor:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "50E30737-924D-479C-86BD-2C26CFB0D1C2 - 4cf6283cf91dcb90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.MapViewRepresentable.MapCoordinator.mapView(_: __C.MKMapView, viewFor: __C.MKAnnotation) -&gt; Swift.Optional&lt;__C.MKAnnotationView&gt;"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/Home/Views/MapViewRepresentable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "1568">
+               </Location>
+               <Location
+                  uuid = "50E30737-924D-479C-86BD-2C26CFB0D1C2 - 4cf6283cf91dcb90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmoothRoute.MapViewRepresentable.MapCoordinator.mapView(_: __C.MKMapView, viewFor: __C.MKAnnotation) -&gt; Swift.Optional&lt;__C.MKAnnotationView&gt;"
+                  moduleName = "SmoothRoute"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klaudiuszmekarski/programowan%CC%81sko/inz%CC%87ynierka/SmoothRoute/SmoothRoute/Core/Home/Views/MapViewRepresentable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "1628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
