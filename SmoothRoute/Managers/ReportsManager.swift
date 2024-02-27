@@ -17,7 +17,6 @@ final class ReportsManager {
         instabilityImpact: Double) -> (result: Double, thresholdExceededCount: Int) {
         var thresholdExceededCount = 0
         guard verticalAccelerationHistory.count == speedHistory.count else {
-            print("speedHistory.count = \(speedHistory.count) verticalAccHistory.count = \(verticalAccelerationHistory.count)")
             return (result: 0.0, thresholdExceededCount: 0)
         }
         

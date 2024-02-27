@@ -206,7 +206,6 @@ class SensorsViewModel: ObservableObject {
         // Filter out locations that are too close to each other
         locationHistory = excludeAdjacentLocations(locations: locationHistory, minDistance: 20)
         if !blockAutoReports && locationHistory.count > 0 {
-            // Add report to recent reports history
             let reportInHistory = ReportInHistory(rating: result, timestamp: Date(), type: .automatic)
             reportsHistory.insert(reportInHistory, at: 0)
             // Send report to Firebase

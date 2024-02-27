@@ -38,14 +38,6 @@ final class FirebaseManager {
     }
     
     func getRoutes(routes: [MKRoute]) async throws -> [Route] {
-//        routes.forEach { route in
-//            var routePoints: [CLLocationCoordinate2D] = []
-//            for index in 0..<route.polyline.pointCount - 1 {
-//                print(route.polyline.points()[index].coordinate)
-//                routePoints.append(route.polyline.points()[index].coordinate)
-//            }
-//            try? createTestMetaReports(coordinates: routePoints)
-//        }
         var resultRoutes: [Route] = []
         for route in routes {
             var coordinates: [CLLocationCoordinate2D] = []
@@ -72,17 +64,13 @@ final class FirebaseManager {
         }
         
         do {
-            print("trying to get route data...")
             let result = try await functions.httpsCallable("getRouteData").call([
                 "latitudes": latitudes,
                 "longitudes": longitudes,
                 "distance": distance,
             ] as [String : Any])
-            
-            print("trying to decode the route data...")
-            
-            if let data = try? JSONSerialization.data(withJSONObject: result.data), let resultRoute = try? JSONDecoder().decode(FirebaseRouteData.self, from: data) {
-                print("data about route from Firebase:", resultRoute)
+            if let data = try? JSONSerialization.data(withJSONObject: result.data), let resultRoute = try?
+                JSONDecoder().decode(FirebaseRouteData.self, from: data) {
                 return resultRoute
             }
         } catch {
@@ -90,14 +78,6 @@ final class FirebaseManager {
         }
         
         // Return a default ResultRoute if there's an error
-        print("there was an error getting route data")
         return FirebaseRouteData(rating: 0, coverage: 2)
-    }
-    
-    func createTestMetaReports(coordinates: [CLLocationCoordinate2D]) throws {
-        try coordinates.forEach { coordinate in
-            let metaReport = MetaReport(rating: 2.1, coordinate: coordinate)
-            try metaReportDocument(metaReportId: metaReport.id).setData(from: metaReport, merge: false)
-        }
     }
 }
